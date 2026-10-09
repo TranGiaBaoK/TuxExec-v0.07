@@ -1,0 +1,12 @@
+Source: tuxexec
+Section: utils
+Priority: optional
+Maintainer: Karain <karain@local>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.0
+
+Package: tuxexec
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Lightweight POSIX C system utility
+ Lightweight POSIX C system utility.

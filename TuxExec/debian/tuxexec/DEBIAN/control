@@ -1,0 +1,10 @@
+Package: tuxexec
+Version: 0.07-2
+Architecture: amd64
+Maintainer: Karain <karain@local>
+Installed-Size: 31
+Depends: libc6 (>= 2.34)
+Section: utils
+Priority: optional
+Description: Lightweight POSIX C system utility
+ Lightweight POSIX C system utility.
